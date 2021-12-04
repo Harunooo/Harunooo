@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harunooo Japanese university student mejoring Economics:)
+- 👋 Hi, I’m @Harunooo Japanese university student majoring Economics:)
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...anything
